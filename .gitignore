@@ -1,0 +1,5 @@
+/dist/
+/bazel-out
+/integration/bazel/bazel-*
+*.log
+node_modules
